@@ -1,0 +1,55 @@
+/**index.wxss**/
+
+/* image{
+  width: 375px;
+  height: 1656px;
+} */
+/* image{
+  width:100px;
+  height: 100px;
+} */
+.button1{
+  width: 325rpx;
+  height: 88rpx;
+  background: #ffb257;
+  color: #fff;
+  font-size: 32rpx;
+  line-height: 88rpx;
+  border-radius: 44rpx;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+
+.button2{
+  width: 325rpx;
+  height: 88rpx;
+  background: #6793f6;
+  color: #fff;
+  font-size: 32rpx;
+  line-height: 88rpx;
+  border-radius: 44rpx;
+  outline: none;
+  border: none;
+  text-align: center;
+}
+.button1:active{
+  background-color: #f2a850;
+  color: #fff;
+}
+button2:active{
+  background-color: #6289e3;
+  color: #fff;
+}
+.button1{
+  /* padding: 20rpx 0; */
+  position: fixed;
+  bottom:60rpx;
+  left: 30rpx;
+}
+.button2{
+  /* padding: 20rpx 0; */
+  position: fixed;
+  bottom:60rpx;
+  right: 30rpx;
+}
